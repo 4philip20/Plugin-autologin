@@ -1,0 +1,2 @@
+Diese Daten würd für Tampermonkey gebruacht, damit Citrixanwender die LeasePLan User Passweort automatisch abgefüllt wird.
+Bitte diese Datei nicht löschen.
